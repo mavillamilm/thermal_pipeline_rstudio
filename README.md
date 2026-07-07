@@ -106,4 +106,4 @@ Load the converted TIFFs into Metashape (or Pix4D), build the orthomosaic, and e
 
 ## License
 
-GPL-3, based on original work by Teja Kattenborn & Daniel Nelson.
+Originally created by Teja Kattenborn https://github.com/tejakattenborn , modified by Daniel Nelson https://github.com/DanGeospatial/dji_m3t_rpeg_to_tif/tree/main and finally modified by me .
